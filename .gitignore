@@ -1,0 +1,10 @@
+demo/
+*.accdb
+*.laccdb
+*.accde
+*.mdb
+staffsync.log
+staffsync.instance.lock
+__pycache__/
+*.py[cod]
+.DS_Store

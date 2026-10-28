@@ -1,0 +1,12 @@
+ILLUSTRATIVE RECEIPT - reference model only; not produced by Microsoft Access
+ACCESS STAFF SYNC - IMPORT RECEIPT
+File: updates_002.xlsx
+Result: PARTIAL
+TotalRows: 7
+AppliedRows: 3
+StaleRows: 1
+DuplicateRows: 1
+RejectedRows: 2
+
+Row 5: REJECTED - MessagingConsent must be YES/NO/TRUE/FALSE/1/0/SI
+Row 6: REJECTED - EventTimeUTC must be YYYY-MM-DDTHH:MM:SSZ

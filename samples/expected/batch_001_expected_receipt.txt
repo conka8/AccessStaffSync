@@ -1,0 +1,12 @@
+ILLUSTRATIVE RECEIPT - reference model only; not produced by Microsoft Access
+ACCESS STAFF SYNC - IMPORT RECEIPT
+File: updates_001.xlsx
+Result: PARTIAL
+TotalRows: 6
+AppliedRows: 4
+StaleRows: 0
+DuplicateRows: 1
+RejectedRows: 1
+
+Row 5: REJECTED - UNKNOWN STAFF: 999999
+Row 6: DUPLICATE - repeated EventID in workbook
